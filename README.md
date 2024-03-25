@@ -3,6 +3,8 @@
 ## Description
   This app allows users to quickly and efficiently manage their notes.  
 
+  https://github.com/Blair-D/My-Personal-Note-Taker
+
   ## Table of Contents
   - [Installation](#installation)
   - [Usage](#usage)
